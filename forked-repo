@@ -1,0 +1,12 @@
+$ curl -s https://api.github.com/repos/nodirbek-code/simple-interest-calculator | grep "fork"
+  "fork": false,
+  "forks_count": 0,
+  "forks_url": "https://api.github.com/repos/nodirbek-code/simple-interest-calculator/forks",
+  "source": {
+    "id": 351234567,
+    "node_id": "R_kgDOG...",
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": true,
